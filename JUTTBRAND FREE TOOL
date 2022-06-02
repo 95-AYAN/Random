@@ -1,0 +1,27 @@
+pkg update
+
+pkg upgrade
+
+pkg install python -y
+
+pkg install python2
+
+pkg inatall git
+
+pip inatall requests
+
+pip inatall Mechanize
+
+pip install bs4
+
+#Run
+
+git clone https://github.com/JUTTBRAND/Random.git
+
+Cd Random
+
+python Pak.py
+
+
+
+
